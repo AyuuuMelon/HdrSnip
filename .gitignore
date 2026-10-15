@@ -1,0 +1,16 @@
+/build*/
+/dist/
+/verification*/
+/WORKLOG.md
+/settings.ini
+/startup-error.log
+*.zip
+*.exe
+*.pdb
+*.jxr
+*.png
+*.raw
+*.diff.txt
+*.png.txt
+/test-output/
+.vs/
